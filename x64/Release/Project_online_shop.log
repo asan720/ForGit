@@ -1,0 +1,1 @@
+﻿C:\src\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(128,5): error : The vcpkg manifest was enabled, but we couldn't find a manifest file (vcpkg.json) in any directories above C:\Users\asana\source\repos\Project_online_shop\Project_online_shop. Please add a manifest, disable manifests in your properties page, or pass /p:VcpkgEnableManifest=false.
