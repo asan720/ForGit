@@ -32,5 +32,5 @@ int main()
 {
 	std::cout << R"#(1 insert 2 show)#";
 	InsertProduct("home", "kitchen", "krujka", 13);
-	
+	std::cout<<"great";
 }
